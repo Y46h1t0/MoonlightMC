@@ -1,6 +1,6 @@
 # MoonlightMC
 
-MoonlightMC is a general-purpose Minecraft utility mod specifically designed for competitive gameplay. The project operates as an addon for **Cactus Mod** (developed by *dwarpslooper*), expanding its capabilities through a comprehensive suite of modular features.
+MoonlightMC is a general-purpose Minecraft utility mod specifically designed for competitive gameplay. The project operates as an addon for **Cactus Mod**, expanding its capabilities through a comprehensive suite of modular features.
 
 All integrated features are built with strict adherence to **fair play**. The mod does not contain any form of unfair advantages or cheats, making it safe and compliant for use on competitive multiplayer servers.
 
