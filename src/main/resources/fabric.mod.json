@@ -3,15 +3,16 @@
 	"id": "moonlight",
 	"version": "${version}",
 	"name": "Moonlight",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A general purpose minecraft utility mod for competitive gameplay",
 	"authors": [
-		"Me!"
+		"YaghitoYT"
+
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://moonlightmc.yaghito.dev/",
+		"sources": "https://github.com/Y46h1t0/MoonlightMC"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/moonlight/icon.png",
 	"environment": "*",
 	"entrypoints": {
