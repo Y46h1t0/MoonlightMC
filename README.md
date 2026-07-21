@@ -26,8 +26,6 @@ Contributions to the project are welcome. To propose changes, optimizations, or 
 
 ## License
 
- HEAD
-This project is distributed under the **GNU GPL-3.0** License. For more information, please refer to the `LICENSE` file within the repository.
-=======
+
 This project is distributed under the **GNU GPL-3.0** License. For more information, please refer to the `LICENSE` file within the repository.
 
