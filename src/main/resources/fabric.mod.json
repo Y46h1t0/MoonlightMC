@@ -5,8 +5,8 @@
 	"name": "Moonlight",
 	"description": "A general purpose minecraft utility mod for competitive gameplay",
 	"authors": [
-		"YaghitoYT"
-
+		"YaghitoYT",
+		"M9MX"
 	],
 	"contact": {
 		"homepage": "https://moonlightmc.yaghito.dev/",
@@ -14,15 +14,22 @@
 	},
 	"license": "GPL-3.0",
 	"icon": "assets/moonlight/icon.png",
-	"environment": "*",
+	"environment": "client",
 	"entrypoints": {
 		"main": [
 			"dev.yaghito.moonlightmc.Moonlight"
+		],
+		"client": [
+			"dev.yaghito.moonlightmc.MoonlightClient"
+		],
+		"cactus": [
+			"dev.yaghito.moonlightmc.MoonlightCactus"
 		]
 	},
 	"mixins": [
 		"moonlight.mixins.json"
 	],
+	"accessWidener" : "moonlight.accesswidener",
 	"depends": {
 		"fabricloader": ">=0.19.3",
 		"minecraft": "~26.2",
